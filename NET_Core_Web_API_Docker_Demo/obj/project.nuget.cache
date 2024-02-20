@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "04gUWvGmSO5YbzeLHypNfdR+BuiIvPobY8kOj0NUc5plfrVczsfT7YCagF/8TCjn4wiBaFTbW0lChVEaVbqMUw==",
+  "success": true,
+  "projectFilePath": "/Users/iscorpions/projects/NET_Core_Web_API_Docker_Demo/NET_Core_Web_API_Docker_Demo/NET_Core_Web_API_Docker_Demo.csproj",
+  "expectedPackageFiles": [
+    "/Users/iscorpions/.nuget/packages/microsoft.aspnetcore.openapi/7.0.15/microsoft.aspnetcore.openapi.7.0.15.nupkg.sha512",
+    "/Users/iscorpions/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/iscorpions/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/iscorpions/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/iscorpions/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/iscorpions/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/iscorpions/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
