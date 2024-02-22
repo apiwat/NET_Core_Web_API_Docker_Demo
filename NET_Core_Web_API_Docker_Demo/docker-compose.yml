@@ -1,0 +1,7 @@
+﻿
+version: '3'
+services:
+  dotnetscript:
+    build: .
+    ports:
+      - "8000:80"  # Change the port as per your requirement
